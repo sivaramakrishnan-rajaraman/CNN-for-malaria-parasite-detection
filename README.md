@@ -7,7 +7,7 @@ The segmented cells from the thin blood smear slide images for the parasitized a
 
 Rajaraman S, Antani SK, Poostchi M, Silamut K, Hossain MA, Maude, RJ, Jaeger S, Thoma GR. (2018) Pre-trained convolutional neural networks as feature extractors toward improved Malaria parasite detection in thin blood smear images. PeerJ6:e4568 https://doi.org/10.7717/peerj.4568
 
-The images were re-sampled to 100 x 100, 224 x 224, 227 x 227 and 299 x 299-pixel resolutions to suit the input requirements of customized and pre-trained CNNs and mean normalized to assist in faster convergence. 
+The publication is also included to this repository for the readers' convenience. The images were re-sampled to 100 x 100, 224 x 224, 227 x 227 and 299 x 299-pixel resolutions to suit the input requirements of customized and pre-trained CNNs and mean normalized to assist in faster convergence. 
 
 # Prerequisites
 Keras 2.2.0
@@ -15,6 +15,8 @@ Keras 2.2.0
 Tensorflow-GPU 1.9.0
 
 Scikit-Learn
+
+OpenCV
 
 Matplotlib
 
